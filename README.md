@@ -2,5 +2,5 @@
 Machine Learning Engineer
   
   
-  PHD Student
+  PhD Student
 </h2>
