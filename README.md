@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala+Ibadullayeva`s+ Github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala+Ibadullayeva's+GitHub.)](https://git.io/typing-svg)
 
 # About Me :
 Anthropologist
