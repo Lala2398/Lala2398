@@ -1,15 +1,18 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala+Ibadullayeva's+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala's+GitHub.)](https://git.io/typing-svg)
 
 # About Me :
 Anthropologist
+
 PhD Student
+
 Google WTM Ambassador
 
 #### Education:
 09/2021- /2024 - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
+
 09/2019-06/2021 - Master (Anthropology) Azerbaijan National Academy of Sciences - Institute of Archeology and Ethnography
-Thesis : "Modern subcultures among Baku youth (Anthropological aspect)”
+
 09/2015-06/2019 - Bachelor (Anthropology) Baku State University - History faculty
 
 
