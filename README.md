@@ -9,7 +9,7 @@ PhD Student
 Google WTM Ambassador
 
 #### Education:
-09/2021- /2024 - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
+09/2021- Present - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
 
 09/2019-06/2021 - Master (Anthropology) Azerbaijan National Academy of Sciences - Institute of Archeology and Ethnography
 
@@ -22,6 +22,7 @@ Google WTM Ambassador
 
 # Technical Skills 
 ![](https://img.shields.io/badge/Analyze-Statistics-informational?style=flat&logo=react&color=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3670A0?style=plastic&logo=TensorFlow&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Lala2398)](https://github.com/LordDashMe/github-contribution-stats/)
