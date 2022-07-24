@@ -30,6 +30,7 @@ Google WTM Ambassador
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-3670A0?style=plastic&logo=TensorFlow&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  
+
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Lala2398)](https://github.com/LordDashMe/github-contribution-stats/)
