@@ -5,7 +5,7 @@
 
 Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/lala_ibadulla)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://linktr.ee/lala_ibadulla)
 
 #### Education:
 09/2021- Present - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
