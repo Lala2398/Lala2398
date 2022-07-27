@@ -1,12 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala's+GitHub.)](https://git.io/typing-svg)
 
-# About Me :
-Anthropologist
+# About Me :  
 
-PhD Student
+Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
 
-Google WTM Ambassador
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/lala_ibadulla)
 
 #### Education:
 09/2021- Present - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
