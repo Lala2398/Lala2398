@@ -24,9 +24,9 @@ Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=sql&logoColor=white)
-![NLTK](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=spacy&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23276DC3.svg?style=plastic&logo=SQL&logoColor=white)
+![NLTK](https://img.shields.io/badge/nltk-%23276DC3.svg?style=plastic&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-%23276DC3.svg?style=plastic&logo=spacy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
