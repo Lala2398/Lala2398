@@ -22,8 +22,8 @@ Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
 # Technical Skills 
 ![](https://img.shields.io/badge/Analyze-Statistics-informational?style=flat&logo=react&color=61DAFB)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=Python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23276DC3.svg?style=plastic&logo=SQL&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23276DC3.svg?style=plastic&logo=NLTK&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-%23276DC3.svg?style=plastic&logo=spacy&logoColor=white)
