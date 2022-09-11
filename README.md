@@ -3,6 +3,9 @@
 
 <img align="right" align="right" width="35%" height="250px" src="https://github.com/Lala2398/Lala2398/blob/main/Lala.gif" alt="cover"/>
 <div align="center">
+  
+  
+  
 
 # About Me :  
 
@@ -11,11 +14,14 @@ Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
 
 #### Education:
-09/2021- Present - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
+09/2021- Present - PhD (Molecular Biology) 
+  Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
 
-09/2019-06/2021 - Master (Anthropology) Azerbaijan National Academy of Sciences - Institute of Archeology and Ethnography
+09/2019-06/2021 - Master (Anthropology) 
+  Azerbaijan National Academy of Sciences - Institute of Archeology and Ethnography
 
-09/2015-06/2019 - Bachelor (Anthropology) Baku State University - History faculty
+09/2015-06/2019 - Bachelor (Anthropology) 
+  Baku State University - History faculty
 
 
 ## Social Media 
