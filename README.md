@@ -9,10 +9,13 @@
 
 # About Me :  
 
-Anthropologist 
-PhD Student 
-Google WTM Ambassador 
-Core Member @Global AI
+U+1F480 Anthropologist 
+  
+U+1F52C PhD Student 
+  
+U+1F469 Google WTM Ambassador
+  
+U+1F469 Core Member @Global AI
 
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
