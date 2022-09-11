@@ -18,7 +18,8 @@
 👩‍🚀 Core Member @Global AI
 
 
-#My Portfolio
+# My Portfolio
+  
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
 
 
