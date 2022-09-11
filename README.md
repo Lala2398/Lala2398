@@ -9,16 +9,18 @@
 
 # About Me :  
 
-U+1F480 Anthropologist 
+💀 Anthropologist 
   
-U+1F52C PhD Student 
+👩‍🔬 PhD Student 
   
-U+1F469 Google WTM Ambassador
+👩‍💻 Google WTM Ambassador
   
-U+1F469 Core Member @Global AI
+👩‍🚀 Core Member @Global AI
+
 
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
+
 
 #### Education:
 09/2021- Present - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
