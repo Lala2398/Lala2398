@@ -46,3 +46,8 @@ Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lala2398)](https://github.com/Lala2398/github-profile-trophy)
+
+
+## My github activity graph
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Lala2398&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Lala2398/github-readme-activity-graph)
