@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala's+GitHub.)](https://git.io/typing-svg)
 
+
+![MasterHead](https://github.com/Lala2398/Lala2398/blob/main/Lala.gif)
+
 # About Me :  
 
 Anthropologist | PhD Student | Google WTM Ambassador | Core Member @Global AI
