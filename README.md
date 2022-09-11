@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala's+GitHub.)](https://git.io/typing-svg)
 
-<img align="right" align="right" width="30%" height="250px" src="https://github.com/Lala2398/Lala2398/blob/main/Lala.gif" alt="cover"/>
+<img align="right" align="right" width="30%" height="200px" src="https://github.com/Lala2398/Lala2398/blob/main/Lala.gif" alt="cover"/>
 <div align="left">
   
   
