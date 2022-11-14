@@ -24,7 +24,7 @@
 
 
 ## Education:
-09/2021- Present - PhD (Molecular Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
+09/2021- Present - PhD (Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
 
 09/2019-06/2021 - Master (Anthropology) Azerbaijan National Academy of Sciences - Institute of Archeology and Ethnography
 
