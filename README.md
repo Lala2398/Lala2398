@@ -19,6 +19,8 @@
   
 👩‍💻 Google WTM Ambassador
   
+👩‍💻 Microsoft Learn Student Ambassador
+  
 👩‍🚀 Core Member @Global AI
 
 
