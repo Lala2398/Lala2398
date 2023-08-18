@@ -13,7 +13,7 @@
 
 💀 Anthropologist 
   
-👩‍🔬 PhD Student @ CSB Lab /IMBB 
+👩‍🔬 PhD Candidate & Programming Engineer @ CSB Lab /IMBB 
   
 👩‍💻 Google WTM Ambassador
   
