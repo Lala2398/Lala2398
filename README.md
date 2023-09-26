@@ -1,25 +1,10 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F763DF&height=56&lines=Hi%2C+Welcome+to+Lala's+GitHub.)](https://git.io/typing-svg)
-
-  
- 
-  
-  
-  
-
 # About Me :  
   
 [![Certified TensorFlow Developer](https://img.shields.io/badge/Certified_TensorFlow_Developer-%23F7931E.svg?style=plastic&logo=TensorFlow&logoColor=white)](https://www.credential.net/798f379d-7003-40ad-a309-515571033de2#gs.lx59nf)
-
-💀 Anthropologist 
   
 👩‍🔬 PhD Candidate & Programming Engineer @ CSB Lab /IMBB 
   
 👩‍💻 Google WTM Ambassador
-  
-👩‍💻 Microsoft Learn Student Ambassador
-  
-👩‍🚀 Core Member @Global AI
 
 
 # My Portfolio
@@ -54,8 +39,6 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23F7931E.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Lala2398)](https://github.com/LordDashMe/github-contribution-stats/)
 
