@@ -44,9 +44,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lala2398&layout=compact)](https://github.com/Lala2398)
 
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Lala2398.Lala2398)](https://github.com/Lala2398)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lala2398)](https://github.com/Lala2398/github-profile-trophy)
-
