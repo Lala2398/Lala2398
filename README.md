@@ -39,8 +39,3 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23F7931E.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Lala2398)](https://github.com/LordDashMe/github-contribution-stats/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lala2398&layout=compact)](https://github.com/Lala2398)
-
