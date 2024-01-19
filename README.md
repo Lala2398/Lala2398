@@ -12,14 +12,6 @@
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
 
 
-## Education:
-09/2021- Present - PhD (Biology) Azerbaijan National Academy of Sciences - Institute of Molecular Biology and Biotechnologies
-
-09/2019-06/2021 - Master (Anthropology) Azerbaijan National Academy of Sciences - Institute of Archeology and Ethnography
-
-09/2015-06/2019 - Bachelor (Anthropology) Baku State University - History faculty
-
-
 ## Social Media 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/missanthropolog/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lala-ibadullayeva/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lala.ibadullayeva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lala_ibadulla) 
 
