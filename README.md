@@ -21,9 +21,6 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23276DC3.svg?style=plastic&logo=SQL&logoColor=white)
 
-![NLTK](https://img.shields.io/badge/NLTK-%23276DC3.svg?style=plastic&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-%23276DC3.svg?style=plastic&logo=spacy&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 
