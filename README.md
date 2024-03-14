@@ -10,7 +10,7 @@
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
 
 
-# Technical Skills 
+## Technical Skills 
 ![](https://img.shields.io/badge/Analyze-Statistics-informational?style=flat&logo=react&color=61DAFB)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=Python&logoColor=ffdd54) 
