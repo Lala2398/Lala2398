@@ -4,14 +4,10 @@
   
 👩‍🔬 PhD Candidate & Programming Engineer @ CSB Lab /IMBB 
   
-👩‍💻 Google WTM Ambassador
+👩‍💻 Google WTM Ambassador & GDG Organizer
 
   
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://linktr.ee/lala_ibadulla)
-
-
-## Social Media 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/missanthropolog/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lala-ibadullayeva/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lala.ibadullayeva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lala_ibadulla) 
 
 
 # Technical Skills 
