@@ -7,7 +7,7 @@
 👩‍💻 Google WTM Ambassador & GDG Organizer
 
   
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/lala_ibadulla)
+[![Main Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/lala_ibadulla)
 
 [Data Science Portfolio](https://www.datascienceportfol.io/lalaibadullayeva) 
 
