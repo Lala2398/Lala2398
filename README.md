@@ -8,7 +8,7 @@
 
   
 [![Main Portfolio](https://img.shields.io/badge/Main_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/lala_ibadulla)
-[![Data Science Portfolio](https://img.shields.io/badge/Main_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://www.datascienceportfol.io/lalaibadullayeva)
+[![Data Science Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://www.datascienceportfol.io/lalaibadullayeva)
 
 
 ## Technical Skills 
