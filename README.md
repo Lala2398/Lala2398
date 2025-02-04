@@ -1,6 +1,8 @@
 ### About Me :  
   
-[![Certified TensorFlow Developer](https://img.shields.io/badge/Certified_TensorFlow_Developer-%23F7931E.svg?style=plastic&logo=TensorFlow&logoColor=white)](https://www.credential.net/798f379d-7003-40ad-a309-515571033de2#gs.lx59nf)
+[Certified TensorFlow Developer](https://www.credential.net/798f379d-7003-40ad-a309-515571033de2#gs.lx59nf)
+
+[Credly](https://www.credly.com/users/lala-ibadullayeva)
   
 👩‍🔬 PhD Candidate & Programming Engineer @ CSB Lab /IMBB 
   
