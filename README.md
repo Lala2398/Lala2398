@@ -6,7 +6,9 @@
   
 👩‍🔬 PhD Candidate & Programming Engineer @ CSB Lab /IMBB 
   
-👩‍💻 Google WTM Ambassador & GDG Organizer
+👩‍💻 Google GDG Organizer
+
+👩‍💻 WTM Ambassador (by Technovation)
 
 [![Data Science Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://www.datascienceportfol.io/lalaibadullayeva)
 
