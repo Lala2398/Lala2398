@@ -15,5 +15,3 @@
 
 [![Main Portfolio](https://img.shields.io/badge/Main_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/lala_ibadulla)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lala2398&layout=compact)](https://github.com/Lala2398)
